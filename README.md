@@ -27,18 +27,5 @@
 <a href="https://www.youtube.com/@arshadarshadli9153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arshadarshadli9153" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arshad_arshadli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arshad_arshadli1" height="30" width="40" /></a>
 </p>
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
- </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshadArshadli01&show_icons=true&locale=en&layout=compact" alt="ArshadArshadli01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArshadArshadli01&show_icons=true&locale=en" alt="ArshadArshadli01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadArshadli01&theme=default" alt="ArshadArshadli01" /></p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arshadarsh01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arshadarsh01" /></a></p><br><br>
